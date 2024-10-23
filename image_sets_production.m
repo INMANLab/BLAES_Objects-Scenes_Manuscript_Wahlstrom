@@ -1,3 +1,4 @@
+%% Created by Lou Blanpain 2021
 % Creates 3 sets of images for the items-vs-scenes task. Requires to have
 % run "pick_source_images" first, or to already have a list of
 % appropriately selected scenes and images.
