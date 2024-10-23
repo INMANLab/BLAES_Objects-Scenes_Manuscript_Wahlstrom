@@ -8,3 +8,5 @@ In the current study we tested whether brief electrical stimulation to the BLA c
 
 We also leveraged direct electrical stimulation of the BLA to interrogate the effective connectivity between the amygdala and hippocampus. Using Single Pulse Evoked Potentials (SPEP) we determined how the amygdala interacts with the hippocampus to favor memory for objects compared to scenes. Overall, our results suggest that the BLA initiates memory prioritization processes by engaging the aHC to a greater extent than the pHC, providing fundamental insight into how BLA projections to hippocampal regions contribute to the neural dynamics of memory prioritization and opening a path to future therapies. 
 
+
+Please see this Box Drive link for access to the image-sets used for this project: https://uofu.box.com/s/qc4bd2vphkmmlws828xs81mzqj7qj40d
